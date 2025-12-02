@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Margit, El augurio caido
+title: Boss: Margit, El augurio caido
 description: "Margit, El augurio caido"
 tags: [sample post]
 author: Samuel Sáez
