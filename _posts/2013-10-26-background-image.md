@@ -3,7 +3,7 @@ layout: post
 title: Post with a Background Image
 description: "Sample post with a background image CSS override."
 tags: [sample post]
-author: Abhishek
+author: Samuel Sáez
 image:
   background: https://raw.githubusercontent.com/kamplen3/myblog2/gh-pages/assets/img/Lamborghini-aventador.png
 ---
