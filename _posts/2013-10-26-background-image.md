@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post with a Background Image
+title: Margit, El augurio caido
 description: "Margit, El augurio caido"
 tags: [sample post]
 author: Samuel Sáez
