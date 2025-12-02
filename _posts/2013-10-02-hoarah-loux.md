@@ -10,7 +10,7 @@ author: Samuel Sáez
 
 **Hoarah Loux** es la auténtica identidad primigenia de **Godfrey**, el primer Señor del Círculo. Se revela en el tramo final de *Elden Ring*, cuando el orgulloso monarca renuncia a su título y desata de nuevo su ferocidad salvaje como guerrero bárbaro.
 
-![Hoarah](https://raw.githubusercontent.com/kamplen3/Wall-E/gh-pages/assets/img/Hoarah.png)
+![Hoarah](https://raw.githubusercontent.com/kamplen3/Wall-E/gh-pages/assets/img/hoarah.png)
 
 ---
 
