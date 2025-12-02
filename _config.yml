@@ -4,7 +4,7 @@ description: 'A Modern Jekyll Theme'
 markdown: kramdown
 highlighter: rouge
 logo: false
-paginate: 15
+paginate: 4
 baseurl: /
 plugins: [jekyll-gist]
 permalink: /:year/:month/:title.html
