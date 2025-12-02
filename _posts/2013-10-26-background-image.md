@@ -12,7 +12,7 @@ Here be a sample post with a custom background image. To utilize this "feature" 
 
 ```yaml
 image:
-  background: filename.png
+  background: https://raw.githubusercontent.com/kamplen3/myblog2/gh-pages/assets/img/Lamborghini-aventador.png
 ```
 
 This little bit of YAML makes the assumption that your background image asset is in the `/images` folder. If you place it somewhere else or are hotlinking from the web, just include the full http(s):// URL. Either way you should have a background image that is tiled.
