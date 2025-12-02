@@ -5,6 +5,7 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: kamplen3.github.io/Wall-E
+baseurl: "/minima"
+url: "https://kamplen3.github.io" 
 plugins: [jekyll-gist]
 permalink: /:year/:month/:title.html
