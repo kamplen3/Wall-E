@@ -5,7 +5,7 @@ description: "Sample post with a background image CSS override."
 tags: [sample post]
 author: Abhishek
 image:
-  background: logo.png
+  background: https://raw.githubusercontent.com/kamplen3/myblog2/gh-pages/assets/img/Lamborghini-aventador.png
 ---
 
 Here be a sample post with a custom background image. To utilize this "feature" just add the following YAML to a post's front matter.
