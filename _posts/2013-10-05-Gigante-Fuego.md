@@ -1,0 +1,95 @@
+---
+layout: post
+title: Boss:Godrick el Injertado
+description: "Godrick el Injertado"
+tags: [sample post]
+author: Samuel Sáez
+---
+
+# Godrick el Injertado
+
+**Godrick el Injertado** es uno de los primeros semidioses que el jugador enfrenta en *Elden Ring*. Señor del Castillo Velo Tormentoso, es conocido por su obsesión con el poder y por su grotesca práctica de injertar extremidades ajenas en su propio cuerpo.
+
+![Godrick Fase 1](https://raw.githubusercontent.com/kamplen3/Wall-E/gh-pages/assets/img/Godrick-1.png)
+
+---
+
+## 🗡️ Introducción
+
+Godrick es el primer gran portador de una **Runa Mayor** que el jugador puede obtener. Su combate es un caos de ataques amplios, fuerza bruta y movimientos impredecibles, lo que lo convierte en una prueba significativa para quienes comienzan su aventura.
+
+---
+
+## 🧬 Historia y trasfondo
+
+Godrick pertenece a la **dinastía dorada** y es un descendiente lejano de la Reina Márika. Sin embargo, su linaje debilitado lo ha llevado a sentirse inseguro y a intentar compensarlo mediante el injerto de poder literal: brazos, piernas y torsos de guerreros y criaturas.
+
+A pesar de su título, Godrick es considerado por muchos NPCs del juego como un líder débil, casi patético. Su crueldad y necesidad de demostrar poder lo han convertido en una figura temida dentro del castillo.
+
+---
+
+## ⚔️ Estilo de combate
+
+El combate contra Godrick se desarrolla en dos fases muy distintas:
+
+### **Fase 1**
+- Usa un hacha gigante con ataques amplios.
+- Tiene múltiples combos que mezclan barridos y golpes verticales.
+- Puede crear ráfagas de viento que aumentan el alcance de sus ataques.
+- Ejecuta saltos aplastantes que castigan rodar demasiado tarde.
+
+### **Fase 2 – El Dragón Injertado**
+Cuando pierde la mitad de su vida, Godrick injerta **la cabeza de un dragón** en su brazo, ganando ataques imbuidos en fuego:
+- Embestidas de fuego a corta distancia.
+- Llamaradas en abanico.
+- Golpes explosivos con el dragón.
+- Un ataque final donde barre todo el campo con una columna de llamas.
+
+![Godrick Fase 2](https://raw.githubusercontent.com/kamplen3/Wall-E/gh-pages/assets/img/Godrick-2.png)
+
+---
+
+## 💡 Consejos para derrotarlo
+
+- **Mantén la calma en sus combos largos**: muchos jugadores esquivan demasiado pronto.
+- Rodar **hacia la izquierda** suele ser más seguro en fase 1.
+- En fase 2, evita colocarte delante del dragón: busca su costado.
+- Invoca a **Nepheli Loux**, una aliada muy eficaz contra él.
+- Los espíritus con buena resistencia, como los **Soldados Godrick**, pueden distraerlo.
+- Las armas con **sangrado** o **daño eléctrico** funcionan especialmente bien.
+
+---
+
+## 🏆 Recompensas
+
+Al derrotarlo obtienes:
+
+- **Runa Mayor de Godrick**, que aumenta todos tus atributos.
+- **Recuerdo del Injertado**, que puede canjearse por:
+  - El hacha de Godrick.
+  - El dragón puño (arma especial).
+- Acceso al siguiente tramo del viaje hacia Liurnia.
+
+---
+
+## 🎨 Apariencia
+
+Godrick es una amalgama de cuerpos. Su torso está lleno de brazos y piernas injertados, algunos útiles, otros simplemente ornamentales. Usa una armadura dorada desgastada y un hacha gigante de diseño irregular.
+
+En su segunda fase, la cabeza de dragón suelta fuego desde su brazo derecho, creando un contraste monstruoso entre carne, metal y llamas.
+
+---
+
+## 📜 Curiosidades
+
+- Muchos NPCs lo desprecian, especialmente Kenneth Haight y Nepheli Loux.
+- Su debilidad y crueldad son temas recurrentes: incluso sus propios soldados lo temen.
+- Es uno de los jefes que más claramente representa el concepto de “poder corrupto” del juego.
+
+---
+
+## 📘 Conclusión
+
+Godrick el Injertado es un combate espectacular que combina caos, agresividad y una puesta en escena inolvidable. Vencerlo significa reclamar la primera Runa Mayor y avanzar hacia el corazón mismo de las Tierras Intermedias.
+
+---
